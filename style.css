@@ -1,0 +1,10 @@
+.size{
+    width: 160px;
+    height: 120px;
+}
+.color{
+    background-color: #646FD4;
+}
+.color:hover{
+    background-color: #9BA3EB;
+}
